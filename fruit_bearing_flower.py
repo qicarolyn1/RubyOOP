@@ -1,4 +1,4 @@
-from Flower import Flower
+from flower import Flower
 
 class FruitBearingFlower(Flower):
     def __init__(self, flower_color, fruit_type, fruit_count):

@@ -1,5 +1,5 @@
-from Flower import Flower
-from FruitBearingFlower import FruitBearingFlower
+from flower import Flower
+from fruit_bearing_flower import FruitBearingFlower
 
 apple_flower = FruitBearingFlower("white", "apple", 1)
 # print(apple_flower.color)
